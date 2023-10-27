@@ -1,0 +1,28 @@
+<svg width="239" height="74" viewBox="0 0 239 74" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_7_1111)">
+<rect x="9" y="9" width="221" height="55.685" rx="8.70079" fill="#F4F4F4"/>
+</g>
+<rect x="64.6851" y="19.4409" width="148.783" height="13.0512" rx="6.52559" fill="#DADADA"/>
+<rect x="64.6851" y="19.4409" width="148.783" height="13.0512" rx="6.52559" fill="#DADADA"/>
+<rect x="64.6851" y="19.4409" width="148.783" height="13.0512" rx="6.52559" fill="#DADADA"/>
+<rect x="64.6851" y="19.4409" width="148.783" height="13.0512" rx="6.52559" fill="#DADADA"/>
+<rect x="63.8149" y="37.7126" width="57.4252" height="13.0512" rx="6.52559" fill="#DADADA"/>
+<rect x="63.8149" y="37.7126" width="57.4252" height="13.0512" rx="6.52559" fill="#DADADA"/>
+<rect x="63.8149" y="37.7126" width="57.4252" height="13.0512" rx="6.52559" fill="#DADADA"/>
+<rect x="63.8149" y="37.7126" width="57.4252" height="13.0512" rx="6.52559" fill="#DADADA"/>
+<circle cx="36.4075" cy="36.4075" r="15.6614" stroke="#925FE2" stroke-width="2.61024"/>
+<circle cx="36.8425" cy="36.8425" r="4.35039" fill="#925FE2"/>
+<defs>
+<filter id="filter0_d_7_1111" x="0.125197" y="0.125197" width="238.75" height="73.4346" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="0.174016" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_7_1111"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="4.35039"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_7_1111"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_7_1111" result="shape"/>
+</filter>
+</defs>
+</svg>
